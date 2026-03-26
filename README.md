@@ -1,5 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://github.com/TCWaghmare/TCWaghmare/edit/main/README.md)
-[![Created Badge](https://badges.pufler.dev/created/pujux/badge-it)](https://github.com/TCWaghmare/TCWaghmare/edit/main/README.md)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejascw&label=Profile%20views&color=0e75b6&style=flat" alt="tejascw" /> </p> 
 
 ## About Me
 
