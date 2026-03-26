@@ -75,23 +75,7 @@ Hi! I'm **TCWaghmare**, a passionate **Data Analyst** dedicated to uncovering pa
 - **Tech Stack**: Python (Pandas, Scikit-learn), SQL, Tableau
 - **[View Project →](#)**
 
-### 3️⃣ **Predictive Churn Modeling**
-> Machine learning model predicting customer churn with 85% accuracy
-- **Impact**: Retained $2M+ in annual revenue through early interventions
-- **Tech Stack**: Python, SQL, Statistical Analysis
-- **[View Project →](#)**
-
-### 4️⃣ **Marketing Attribution Analysis**
-> Multi-touch attribution model to understand customer journey
-- **Impact**: Better budget allocation increased ROI by 40%
-- **Tech Stack**: Python, Google Analytics, SQL
-- **[View Project →](#)**
-
 ---
-
-## 📜 Education & Certifications
-
-🎓 **Bachelor's Degree in [Your Field]** | *[University Name]* (20XX)
 
 📜 **Certifications:**
 - ✅ Tableau Desktop Specialist
@@ -101,22 +85,7 @@ Hi! I'm **TCWaghmare**, a passionate **Data Analyst** dedicated to uncovering pa
 
 ---
 
-## 📊 GitHub Activity
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TCWaghmare&show_icons=true&theme=radical&hide_title=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TCWaghmare&layout=compact&theme=radical)
-
----
-
-## 🌟 What Recruiters Should Know
-
-🎯 **Results-Driven**: Consistently deliver actionable insights that drive business decisions  
-📚 **Continuous Learner**: Passionate about staying current with latest analytics trends  
-🤝 **Collaborator**: Excellent communicator who bridges technical and business teams  
-💪 **Problem Solver**: Approach challenges with curiosity and analytical rigor  
-
----
 
 ## 📬 Let's Connect!
 
