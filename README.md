@@ -10,6 +10,9 @@ Hi! I'm **TCWaghmare**, a passionate **Data Analyst** dedicated to uncovering pa
 
 ---
 
+![Visitor Count](https://visitcount.itsvg.in/api/VisitCount?user=TCWaghmare&label=Profile%20Visits&color=blue&icon=5&pretty=true)
+
+---
 ## 🛠️ Technical Toolkit
 
 ### **Languages & Databases**
