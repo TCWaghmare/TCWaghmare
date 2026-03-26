@@ -1,19 +1,9 @@
-## 📊 About Me
+## About Me
 
-Hi! I'm **TCWaghmare**, a passionate **Data Analyst** dedicated to uncovering patterns, telling compelling data stories, and driving business growth through analytics. With expertise in statistical analysis, data visualization, and business intelligence, I help organizations make data-driven decisions that matter.
-
-### **What Drives Me:**
-✨ Solving complex problems with data  
-🎯 Creating impact through insights  
-📈 Continuous learning and growth  
-🤝 Collaborating with cross-functional teams  
+Hi! I'm **Tejas Waghmare**, a passionate **Data Analyst** dedicated to uncovering patterns, telling compelling data stories, and driving business growth through analytics. With expertise in statistical analysis, data visualization, and business intelligence, I help organizations make data-driven decisions that matter.
 
 ---
-
-![Visitor Count](https://visitcount.itsvg.in/api/VisitCount?user=TCWaghmare&label=Profile%20Visits&color=blue&icon=5&pretty=true)
-
----
-## 🛠️ Technical Toolkit
+## Technical Toolkit
 
 ### **Languages & Databases**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -34,16 +24,6 @@ Hi! I'm **TCWaghmare**, a passionate **Data Analyst** dedicated to uncovering pa
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-### **Key Competencies**
-- ✅ Exploratory Data Analysis (EDA)
-- ✅ Statistical Modeling & Hypothesis Testing
-- ✅ Data Visualization & Storytelling
-- ✅ Dashboard Development
-- ✅ Business Intelligence & Analytics
-- ✅ Data Cleaning & Wrangling
-- ✅ A/B Testing & Experimentation
-- ✅ Predictive Analytics
-
 ---
 
 ## 💼 Professional Experience
@@ -54,22 +34,26 @@ Hi! I'm **TCWaghmare**, a passionate **Data Analyst** dedicated to uncovering pa
 - 📈 Conducted A/B testing for marketing campaigns, improving conversion rates by 15%
 - 🔍 Automated reporting processes, reducing manual effort by 8 hours/week
 
-### **Junior Data Analyst** | *[Previous Company]* | *[Period]*
-- 🗂️ Cleaned and standardized datasets from multiple sources
-- 📊 Created 15+ interactive visualizations for stakeholder reporting
-- 💡 Collaborated with product team to track user engagement metrics
+### **Project Engineer** | *Cybernetics* | *4 Months*
+-  Cleaned and standardized datasets from multiple sources
+-  Created 15+ interactive visualizations for stakeholder reporting
+-  Collaborated with product team to track user engagement metrics
+
+### **Intern** | *Bajaj Auto CSR* | *6 Months*
+-
+
 
 ---
 
 ## 📈 Featured Projects
 
-### 1️⃣ **Sales Performance Dashboard**
+### 1 **Sales Performance Dashboard**
 > Interactive Tableau dashboard analyzing 500K+ transactions across 5 regions
 - **Impact**: 30% faster report generation, enabled real-time decision-making
 - **Tech Stack**: Python, SQL, Tableau, PostgreSQL
 - **[View Project →](#)**
 
-### 2️⃣ **Customer Segmentation Analysis**
+### 2 **Customer Segmentation Analysis**
 > Advanced clustering analysis to optimize marketing strategy and personalization
 - **Impact**: 25% improvement in campaign conversion rates
 - **Tech Stack**: Python (Pandas, Scikit-learn), SQL, Tableau
@@ -78,10 +62,8 @@ Hi! I'm **TCWaghmare**, a passionate **Data Analyst** dedicated to uncovering pa
 ---
 
 📜 **Certifications:**
-- ✅ Tableau Desktop Specialist
-- ✅ Google Data Analytics Professional Certificate
-- ✅ Microsoft Certified: Data Analyst Associate
-- ✅ SQL for Data Analysis
+- [PowerBI for Data Analyst]()
+- [Python for Data science and Machine learinng]()
 
 ---
 
