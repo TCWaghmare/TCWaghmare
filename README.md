@@ -1,6 +1,12 @@
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/pujux/badge-it)](https://badges.pufler.dev)
+
 ## About Me
 
 Hi! I'm **Tejas Waghmare**, a passionate **Data Analyst** dedicated to uncovering patterns, telling compelling data stories, and driving business growth through analytics. With expertise in statistical analysis, data visualization, and business intelligence, I help organizations make data-driven decisions that matter.
+
+## Conect 
+<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[YOUR_LINKEDIN_USERNAME]" />
 
 ---
 ## Technical Toolkit
