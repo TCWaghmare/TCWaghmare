@@ -1,5 +1,5 @@
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/pujux/badge-it)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://github.com/TCWaghmare/TCWaghmare/edit/main/README.md)
+[![Created Badge](https://badges.pufler.dev/created/pujux/badge-it)](https://github.com/TCWaghmare/TCWaghmare/edit/main/README.md)
 
 ## About Me
 
