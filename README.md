@@ -1,10 +1,14 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejascw&label=Profile%20views&color=0e75b6&style=flat" alt="tejascw" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TCWaghmare&label=Profile%20views&color=0e75b6&style=flat" alt="TCWaghmare" /> </p> 
+
+
+<h1 align="center">Hello 👋, I'm TEJAS WAGHMARE</h1> 
 
 ## About Me
 
 Hi! I'm **Tejas Waghmare**, a passionate **Data Analyst** dedicated to uncovering patterns, telling compelling data stories, and driving business growth through analytics. With expertise in statistical analysis, data visualization, and business intelligence, I help organizations make data-driven decisions that matter.
+---
 
-## Conect 
+## Contact
 <img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[YOUR_LINKEDIN_USERNAME]" />
 
 ---
