@@ -79,17 +79,20 @@ Hi! I'm Tejas Waghmare, a passionate Data Analyst dedicated to uncovering patter
 
 ## 📈 Featured Projects
 
-### 1 **Sales Performance Dashboard**
-> Interactive Tableau dashboard analyzing 500K+ transactions across 5 regions
-- **Impact**: 30% faster report generation, enabled real-time decision-making
-- **Tech Stack**: Python, SQL, Tableau, PostgreSQL
-- **[View Project →](#)**
+### 🛒 1. [Amazon Sales Dashboard](https://github.com/TCWaghmare/amazon-sales-data-analysis-dashboard_project)
+> 3-page interactive Power BI dashboard analyzing 50K orders & 32.8M revenue across 6 product categories and 5 global regions
+ 
+- **Impact**: Revealed uniform discount distribution across categories and identified Beauty as top revenue driver with highest category demand
+- **Tech Stack**: `Power BI` `DAX` `Data Modeling` `Geo Mapping` `Data Visualization`
+- **[View Project →](https://github.com/TCWaghmare/amazon-sales-data-analysis-dashboard_project)**
 
-### 2 **Customer Segmentation Analysis**
-> Advanced clustering analysis to optimize marketing strategy and personalization
-- **Impact**: 25% improvement in campaign conversion rates
-- **Tech Stack**: Python (Pandas, Scikit-learn), SQL, Tableau
-- **[View Project →](#)**
+
+### 2. [Diversity & Inclusion Dashboard — Pharma Group AG](https://github.com/TCWaghmare/PWC-dashboard)
+> Interactive Power BI dashboard tracking workforce diversity KPIs — Hiring, Promotions, Turnover, Performance & Executive Split
+ 
+- **Impact**: Uncovered gender gaps in senior hiring and found high performers had higher attrition rates
+- **Tech Stack**: `Power BI` `DAX` `Data Modeling` `Data Visualization`
+- **[View Project →](https://github.com/TCWaghmare/PWC-dashboard)**
 
 ---
 
