@@ -47,20 +47,33 @@ Hi! I'm Tejas Waghmare, a passionate Data Analyst dedicated to uncovering patter
 
 ## 💼 Professional Experience
 
-### **Data Analyst** | *[Current Company]* | *[Period]*
-- 📊 Developed and maintained dashboards tracking 100K+ daily transactions
-- 🎯 Identified data insights that led to 20% improvement in operational efficiency
-- 📈 Conducted A/B testing for marketing campaigns, improving conversion rates by 15%
-- 🔍 Automated reporting processes, reducing manual effort by 8 hours/week
+### **Data Analyst Intern** | **Microsoft Elevate × AICTE** | *Feb 2026 – Mar 2026*
+- Completed a 4-week intensive Microsoft Elevate Internship (in collaboration with AICTE) internship, focused on applying Power BI for real-world business   analytics use cases.
+- Gained hands-on experience in building interactive dashboards and business reports, transforming raw data into visual insights for decision-making.
+- Completed a structured 20-hour course curriculum covering data modeling, DAX functions, data visualization best practices, and business intelligence concepts in   Power BI.
+- Developed skills in connecting data sources, designing reports, and presenting data-driven stories to support business operations and strategy.
+  
+`Power BI` `DAX` `Data Modeling` `Business Intelligence` `Dashboard Design`
 
-### **Project Engineer** | *Cybernetics* | *4 Months*
--  Cleaned and standardized datasets from multiple sources
--  Created 15+ interactive visualizations for stakeholder reporting
--  Collaborated with product team to track user engagement metrics
+### **Project Engineer** | *Cybernetic* | *4 Months*
+-  Automated Excel dashboards (Pivot Tables, XLOOKUP) to reduce reporting time and improve efficiency.
+-  Improved data accuracy through data cleaning, validation, and preprocessing using Excel and ERP systems
+-  Developed real-time Power BI dashboards for KPI tracking, business insights, and decision-making.
+-  Analyzed project and operational data to identify trends, patterns, and performance gaps Utilized tools and skills including Excel, Power BI, ERP, Data Analysis, Data Visualization, KPI Reporting, Business Intelligence
 
-### **Intern** | *Bajaj Auto CSR* | *6 Months*
--
 
+
+### Graduate Trainee Engineer — Emerging Technologies
+**Bajaj BEST × ASDC (Automotive Skills Development Council)** | *Nov 2025* | **Score: 87%**
+ 
+> Certified program under ASDC covering emerging technologies driving modern data-driven industries.
+ 
+- Studied **AI & ML fundamentals** — predictive models and real-world business applications
+- Explored **Data Science principles** — data collection, processing & analysis workflows
+- Gained knowledge of **IIoT sensors** — real-time data collection for industrial analytics
+- Understood smart manufacturing and operational intelligence concepts
+ 
+`AI & ML Basics` `Data Science` `IIoT` `Sensor Data` `Industrial Analytics`
 
 ---
 
