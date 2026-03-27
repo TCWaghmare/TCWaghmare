@@ -19,35 +19,30 @@
 
 ## About Me
 
-Hi! I'm **Tejas Waghmare**, a passionate **Data Analyst** dedicated to uncovering patterns, telling compelling data stories, and driving business growth through analytics. With expertise in statistical analysis, data visualization, and business intelligence, I help organizations make data-driven decisions that matter.
+Data Analyst
+------------
+
+Hi! I'm Tejas Waghmare, a passionate Data Analyst dedicated to uncovering patterns, telling compelling data stories, and driving business growth through analytics. With expertise in statistical analysis, data visualization, and business intelligence, I help organizations make data-driven decisions that matter.
+
+* 🌍  I'm based in India
+* ✉️  You can contact me at [tejaswaghmare900@gmail.com](mailto:tejaswaghmare900@gmail.com)
+* 🧠  I'm currently learning Data Analyatics
+
 ---
 
 ## Contact
-<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[YOUR_LINKEDIN_USERNAME]" />
+### Socials
 
+<p align="left"> <a href="https://www.github.com/TCWaghmare" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/tejascwaghmare" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
+
+## skills
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>
+</p>
 ---
-## Technical Toolkit
 
-### **Languages & Databases**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
-### **Data Visualization & BI Tools**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=google&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3498DB?style=flat&logo=python&logoColor=white)
-
-### **Databases & Platforms**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
----
 
 ## 💼 Professional Experience
 
@@ -117,3 +112,16 @@ I'm always excited to discuss data projects, share insights, or explore new oppo
 <h4 align="center">
   <a href="https://github.com/TCWaghmare?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/TCWaghmare"><img src="https://github-readme-stats.vercel.app/api?username=TCWaghmare&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TCWaghmare's GitHub stats" /></a>
+
+<a href="http://www.github.com/TCWaghmare"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TCWaghmare&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/TCWaghmare/amazon-sales-data-analysis-dashboard_project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TCWaghmare&repo=amazon-sales-data-analysis-dashboard_project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
