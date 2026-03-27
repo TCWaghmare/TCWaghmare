@@ -1,7 +1,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TCWaghmare&label=Profile%20views&color=0e75b6&style=flat" alt="TCWaghmare" /> </p> 
 
 
-<h1 align="center">Hello 👋, I'm TEJAS WAGHMARE</h1> 
+<h1 align="center">
+
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=E4F761&width=435&lines=Hello+%F0%9F%91%8B,+Welcome+!;I'm+TEJAS+WAGHMARE..." alt="Typing SVG" /></a>
+
+</h1>
+
+
+
+<h5 align="center">
+  
+<p align="left">
+<a href="https://www.linkedin.com/in/tejaswaghmare/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejaswaghmare/" height=40" width="40" /></a> <a href="mailto:tejaswaghmare2106@gmail.com" target="blank"><img align="left" src="https://github.com/tejascw/Asset-/blob/main/mail%20logo.svg" alt="" height="50" width="70" /></a> <a href="https://github.com/tejascw?tab=repositories" target="blank"><img align="left" src="https://github.com/tejascw/Asset-/blob/main/github%20logo.svg" alt="" height="40" width="40" /></a> </p><br><br>
+
+
 
 ## About Me
 
@@ -100,3 +114,6 @@ I'm always excited to discuss data projects, share insights, or explore new oppo
 *Last updated: March 2026*
 
 </div>
+<h4 align="center">
+  <a href="https://github.com/TCWaghmare?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
