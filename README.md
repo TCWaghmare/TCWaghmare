@@ -92,7 +92,7 @@ Hi! I'm Tejas Waghmare, a passionate Data Analyst dedicated to uncovering patter
 📜 [**Certifications:**](https://github.com/TCWaghmare/Certificates)
 - [PowerBI for Data Analyst](https://github.com/TCWaghmare/Certificates/blob/main/PowerBi%20courseComplition%20%20Certificate.jpg)
 - [Python for Data science and Machine learinng](https://www.udemy.com/certificate/UC-a2a5eb05-ad45-4de9-9ed9-e3b1654c2756/)
-  [Learn C++ Programming -Beginner to Advance- Deep Dive in C++](https://www.udemy.com/certificate/UC-4e643524-6e2d-481d-a49a-3e908d5742f6/)
+- [Learn C++ Programming -Beginner to Advance- Deep Dive in C++](https://www.udemy.com/certificate/UC-4e643524-6e2d-481d-a49a-3e908d5742f6/)
 ---
 
 
